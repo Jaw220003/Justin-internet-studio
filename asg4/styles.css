@@ -1,3 +1,16 @@
+h1, h2 {
+	font-family: "Audiowide", sans-serif;
+}
+
+p {
+	font-family: "Audiowide", sans-serif;
+}
+	
+body {
+	background-color: rgb(144, 238, 144);
+	padding: 0 20px 20px 20px;
+	margin: 0;
+}	
 	p {
 		color: rgb(255, 255, 255);
 		font-size: 1em;
