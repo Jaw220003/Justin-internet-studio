@@ -3,6 +3,8 @@ h1, h2 {
 }
 
 p {
+	color: rgba(255,255,255,.6);
+    font-size: 1em;
 	font-family: "Oswald", sans-serif;	
 }
 
