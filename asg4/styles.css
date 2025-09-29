@@ -40,8 +40,8 @@ th, td {
 }
 
 .ul {
-	text-align: left;
-	width: 300px;
+	text-align: far left;
+	width: 100px;
 	margin-left: auto;
 	margin-right: auto;
 }
