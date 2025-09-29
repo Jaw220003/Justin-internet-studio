@@ -17,43 +17,6 @@ body {
 		padding-bottom: 5px;
 	}
 
-
-	}
-	#logo {
-		font-family: Baskerville, Palatino, sans-serif;
-		font-size: 2em; /* This size is twice as large as the base font which usually is 16px */
-		color: rgba(255,255,255,.8);
-		font-style: italic;
-		text-align: center;
-		margin-bottom: 30px;
-		background color: rgb(255,255,255);
-		border-radius: 0 0 10px 10px;
-		padding: 10px;
-	}
-
-	.note {
-		color: black;
-		border: 2px solid white;
-		margin-top: 25px;
-		margin-bottom: 35px;
-		padding: 20px;
-	}
-
-	.note strong {
-		color: #fc6512;
-	}
-
-	article {
-		max-width: 760px;
-		margin: 0 auto;
-	}
-
-	h1+p {
-		color: rgb(255,255,255);
-		font-size: 1.2em;
-		line-height: 140%;
-	}
-
 	.table {
 		background: #FFFF00
 	    border: 1px solid black;
