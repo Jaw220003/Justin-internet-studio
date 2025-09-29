@@ -9,15 +9,15 @@ body {
 		font-family: "Audiowide", sans-serif;
 	}
 
-	h1, h2 {
+h1, h2 {
 		color: rgb(31, 81, 255);
 		font-family: "Audiowide", sans-serif;
 		border-bottom: 2px solid rgb(87,185,178);
 		padding-top: 10px;
 		padding-bottom: 5px;
-	}
+}
 
-	.table {
+.table {
 		background: #FFFF00
 	    border: 1px solid black;
 		border-collapse: collapse;
@@ -25,10 +25,23 @@ body {
 		margin-left: auto;
 		margin-right: auto;
 		
-	}
+}
 
 th, td {
 	border: 1px solid white;
 	border-collapse: collapse;
 }
-		 
+
+.list {
+	text-align: center !important;
+	list-style-position: inside;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.ul {
+	text-align: center !important;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
