@@ -18,17 +18,18 @@ h1, h2 {
 }
 
 .table {
-		background: #FFED29
+		background: #FFED29;
 	    border: 1px solid yellow;
 		border-collapse: collapse;
-		width: 100%
+		border-style: solid;;
+		width: 100%;
 		margin-left: auto;
 		margin-right: auto;
 		
 }
 
 th, td {
-	border: 1px solid white;
+	border: 1px solid black;
 	border-collapse: collapse;
 }
 
