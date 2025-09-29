@@ -65,18 +65,7 @@ body {
 	}
 
 th, td {
-
-		 border: 1px solid white;
-	     padding: 10px;
-		 text-align: left;
-		 color: black;
-		 font-family: "Varela Round", Arial, Helevetica, sans-serif
-
-
+	border: 1px solid white;
+	border-collapse: collapse;
 }
-	
-th
-	{
-      	background-color: rgb(255,255,255);
-		color: black;
-	}
+		 
