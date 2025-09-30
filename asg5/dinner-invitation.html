@@ -31,14 +31,31 @@
 
 </ul>
 
-<form method="post" action="http://server1">
-  Enter your name:
-  <input type="text" name="fname">
-  <br/>
-  Enter your age:
-  <input type="text" name="age">
-  <br/>
-  <input type="submit" value="Submit">
-</form>
+<section id="overlay">
+	<form action="submission.html" method="POST">
+		<h2>RSVP!</h2>
+		<section class="name">
+			<label for="name">Please Enter Your Name</label>
+			<input type="text" name="name" id="name">
+		</section>
+
+		<section class="guest">
+			<label for="amount">Will You Be Bringing a Guest?</label>
+			<input type="number" name="amount" id="amount">
+		</section>
+
+		<section>
+			<label for="diet">Please list any dietary preferences here:</label>
+			<br>
+			<textarea id="diet" name="diet" rows="3" cols="40"></textarea>
+		</section>
+
+		 <section class="submission">
+          <input type="submit" value="Submit">
+        </section>
+	</form>
+</section>	
+</article>	
+	
 	
 </body>
