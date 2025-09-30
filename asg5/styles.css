@@ -4,3 +4,35 @@ h1, h2{
 p{
     font-family: "Domine", serif;
 }
+body {
+      background-color: #d15050;
+      background-image: url(images/new-r5.png);
+      background-repeat: repeat;
+      font-family: "Orbitron", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+      text-align: center !important;
+      max-width: 800px;
+      margin: 0 auto;
+}
+
+article {
+      border: 10px solid rgb(11,187,208);
+      border-radius: 10px;
+      background-color: #98cdd3;
+      margin-top: 25px;
+      margin-bottom: 25px;
+      padding: 20px;
+}
+
+ul {
+      text-align: center !important;
+      width: 300px;
+      margin-left: auto;
+      margin-right: auto;
+}
+
+h1, p, li {
+      color: #366063;
+}
