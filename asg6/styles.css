@@ -17,5 +17,14 @@ body {
 }
 
 article {
+      border: 10px solid rgb(128,0,128);
+      border-radius: 10px;
+      background-color: #00FF00;
+      margin-top: 25px;
+      margin-bottom: 25px;
+      padding: 20px;
+}
+
+h1 {
     
 }
