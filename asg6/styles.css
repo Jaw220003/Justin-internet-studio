@@ -6,7 +6,8 @@ p{
 }
 body {
       background-color: #FFA500;
-      background-image: url 
+      background-image: url(imgages/criss-cross.webp);
+      background-repeat: repeat;
       font-family: "Domine", serif;
       font-optical-sizing: auto;
       font-weight: 400;
