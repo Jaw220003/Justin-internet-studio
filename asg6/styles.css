@@ -1,4 +1,4 @@
-h1, h2{
+h1, h2, h3{
     font-family: "Wendy One", sans-serif;
 }
 p{
@@ -6,6 +6,7 @@ p{
 }
 body {
       background-color: #FFA500;
+      background-image: url 
       font-family: "Domine", serif;
       font-optical-sizing: auto;
       font-weight: 400;
@@ -13,3 +14,4 @@ body {
       text-align: center;
       max-width: 800px;
       margin: 0 auto;
+}
