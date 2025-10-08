@@ -51,8 +51,8 @@ p, ul {
 }
 
 aside {
-  width: 30%;
-  float: right;
+  width: 20%;
+  float: upright;
   margin: 10px;
   background-color: rgb(250,235,199);
   padding: 10px 20px;
