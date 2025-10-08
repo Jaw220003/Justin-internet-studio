@@ -48,6 +48,7 @@ p {
       color: #202020;
 }
 
-.figure {
-      text-align: right;
+.float-right {
+      float: right;
+      margin: 10px;
 }
