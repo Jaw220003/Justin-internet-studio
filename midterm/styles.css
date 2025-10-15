@@ -23,3 +23,9 @@
        
 
  Insert all your glorious CSS styles below! */
+
+body { 
+    background-color: #818589;
+    background-image: url(img/criss-cross.webp);
+    background-repeat: repeat;
+}
