@@ -26,12 +26,12 @@ p, ul {
 }
 
 article {
-  width: 30%;
-  float: right;
-  margin: 10px;
-  background-color: rgb(200,235,199);
-  padding: 10px 20px;
-  border: 1px dotted rgb(252,101,18);
+    border: 10px solid rgb(112, 85, 38);
+    border-radius: 10px;
+    background-color: #6c1573;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 20px;
 }
 
 body { 
