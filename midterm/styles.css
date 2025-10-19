@@ -29,3 +29,10 @@ body {
     background-image: url(images/Bubble-background.webp);
     background-repeat: repeat;
 }
+
+ul {
+      text-align: center;
+      width: 300px;
+      margin-left: auto;
+      margin-right: auto;
+}
