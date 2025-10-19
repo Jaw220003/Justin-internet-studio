@@ -45,6 +45,9 @@
 html {font-size: 16px;}
 
 body {
+  background-color: #818589;
+  background-image: url(images/folk-pattern.webp);
+  background-repeat: repeat;
   font-family: 'Amethysta', sans-serif;
   font-weight: false;
   line-height: 1.65;
@@ -52,6 +55,7 @@ body {
 
 p {
   font-size: 1em;
+  color: #000000;
 }
 
 h1,
