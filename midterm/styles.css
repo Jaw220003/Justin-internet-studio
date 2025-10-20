@@ -108,7 +108,7 @@ ul {
 
 aside {
   width: 30%;
-  float: left;
+  float: center;
   margin: 10px;
   background-color: rgb(250,235,199);
   padding: 10px 20px;
