@@ -112,5 +112,5 @@ aside {
   margin: 10px;
   background-color: rgb(250,235,199);
   padding: 10px 20px;
-  border: 2px #FF0000;
+  border: 2px solid #FF0000;
 }
