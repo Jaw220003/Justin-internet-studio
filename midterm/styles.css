@@ -138,7 +138,6 @@ html {
 }
 
 .main {
-  width: -10px;
+  width: 10%;
   height: auto;
-  font-size: 1em
 }
