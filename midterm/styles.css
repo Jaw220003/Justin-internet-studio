@@ -136,3 +136,8 @@ html {
   height: 100%
   background-repeat: no-repeat; 
 }
+
+.class {
+  width: 100px;
+  height: auto;
+}
