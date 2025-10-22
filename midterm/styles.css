@@ -110,7 +110,8 @@ small,
               
 
 body { 
-    background: transparent url(images/Bubble-background.webp) no-repeat;
+    background: transparent url(images/Bubble-background.webp);
+    background-repeat: repeat-x;
     margin: 0 auto;
     height: 100%  
 }
