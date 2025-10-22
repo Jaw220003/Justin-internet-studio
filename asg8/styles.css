@@ -106,3 +106,7 @@ article {
     margin-bottom: 25px;
     padding: 20px;
 }
+
+.announcement li{
+	list-style: none;
+}
