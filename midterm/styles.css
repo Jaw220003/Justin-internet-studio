@@ -111,7 +111,7 @@ small,
 
 body { 
     background-color: #818589;
-    background: transparent url(images/Bubble-background.webp) no repeat;
+    background: transparent url(images/Bubble-background.webp) no-repeat;
     margin: 0 auto;
     height: 100%  
 }
