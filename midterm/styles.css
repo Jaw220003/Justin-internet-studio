@@ -24,7 +24,8 @@
 
  Insert all your glorious CSS styles below! */
 nav ul {
-   list-style: none
+   list-style: none;
+   display: flex;   
 }
 
 /* knewave-regular - latin */
