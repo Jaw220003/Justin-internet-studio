@@ -25,7 +25,8 @@
  Insert all your glorious CSS styles below! */
 nav ul {
    list-style: none;
-   display: flex;   
+   display: flex;
+   justify-context: center;   
 }
 
 /* knewave-regular - latin */
