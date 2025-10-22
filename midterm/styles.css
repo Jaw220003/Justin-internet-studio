@@ -28,6 +28,7 @@ nav ul {
    display: flex;
    justify-context: center;
    flex-direction: row;
+   gap: 20px;
 }
 
 /* knewave-regular - latin */
