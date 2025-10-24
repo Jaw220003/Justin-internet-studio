@@ -56,7 +56,7 @@ body {
   margin: 0 auto;
 }
 
-p {
+p, ul {
   font-size: 1.5em;
   color: #05FFCD;
 }
@@ -82,6 +82,7 @@ h1,
 
 h2,
 .text-size-h2 { font-size: 3.16em; }
+color: #05FFCD;
 
 h3,
 .text-size-h3 { font-size: 2.37em; }
