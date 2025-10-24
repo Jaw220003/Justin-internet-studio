@@ -110,3 +110,8 @@ article {
 .announcement li{
 	list-style: none;
 }
+
+ul {
+	font-size: 1em
+	color: #05FFCD;
+}
