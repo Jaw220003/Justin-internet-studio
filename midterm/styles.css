@@ -119,8 +119,8 @@ body {
 }
 
 article {
-    border: 10px solid rgb(234,153,153);
-    border-radius: 1.5px;
+    border: 5px solid rgb(234,153,153);
+    border-radius: 1px;
     background-color: rgb(240,227,63);
     margin-top: 2px;
     margin-bottom: 2px;
