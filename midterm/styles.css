@@ -65,7 +65,9 @@ body {
 }
 
 p {
-  font-size: 1.5em;
+  font-size: 1em;
+  text-align: left;
+  line-height: 35px;
   color: #00008B; 
 }
 
