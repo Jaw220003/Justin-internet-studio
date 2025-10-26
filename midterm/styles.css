@@ -155,12 +155,12 @@ html {
 }
 
 .container {
-    width: 600px;
-    height: 200px;
+    width: 800px;
+    height: 300px;
 }
 
 /* Resize images */
 .container img {
-    width: 25%;
+    width: 60%;
     height: auto;
 }
