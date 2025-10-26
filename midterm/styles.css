@@ -161,6 +161,6 @@ html {
 
 /* Resize images */
 .container img {
-    width: auto;
+    width: 25%;
     height: auto;
 }
