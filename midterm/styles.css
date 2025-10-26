@@ -164,9 +164,9 @@ html {
 }
 
 .container {
-  width: 100vw;
-  height: 100vh;
-  display: flex 
+  width: 100px;
+  height: 100px;
+  display: flex; 
 }
 
 .container img {
