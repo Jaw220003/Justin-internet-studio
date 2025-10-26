@@ -114,9 +114,9 @@ small,
 
 body { 
     background: transparent url(images/Bubble-background.webp);
-    background-repeat: repeat-y;
+    background-repeat: repeat-x;
     margin: 0 auto;
-    height: 100%  
+    height: 100%;  
 }
 
 article {
