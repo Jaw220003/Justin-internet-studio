@@ -164,14 +164,13 @@ html {
 }
 
 .container {
-    width: 500px;
-    height: 120px;
+    width: 600px;
+    height: 80px;
     float: center;    
 }
 
 /* Resize images */
 .container img {
-    width: 110%;
-    height: auto;
-    text-align: center;  
+    width: 100%;
+    height: auto;  
 }
