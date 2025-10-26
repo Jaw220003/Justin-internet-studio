@@ -154,9 +154,13 @@ html {
   height: auto;
 }
 
-img src {
- max-height: 150px;
- max-width: 200px;
- width: 120px;
- height: 120px;
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+/* Resize images */
+.container img {
+    width: 100%;
+    height: auto;
 }
