@@ -161,7 +161,7 @@ html {
 
 /* Resize images */
 .container img {
-    width: 150%;
+    width: 110%;
     height: auto;
-    float: center;  
+    text-align: center;  
 }
