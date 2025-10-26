@@ -153,3 +153,10 @@ html {
   width: 10%;
   height: auto;
 }
+
+img src {
+ max-height: 150px;
+ max-width: 200px;
+ width: 120px;
+ height: 120px;
+}
