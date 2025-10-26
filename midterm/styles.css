@@ -62,6 +62,7 @@ body {
   font-weight: false;
   line-height: 1.65;
   text-align: center;
+  margin: 0 auto;
 }
 
 p {
