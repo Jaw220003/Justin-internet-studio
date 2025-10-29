@@ -60,8 +60,9 @@ html {font-size: 16px;}
 
 
 header {
-	background: #131713;
+	background-color: #131713;
 	border-bottom: 3px solid #131713;
+	border-radius: 5px;
 	font-family: 'knewaves', sans-serif;
 	color: #ffffff;
 	position: fixed;
