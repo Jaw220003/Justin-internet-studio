@@ -42,6 +42,7 @@
 }
 
 nav ul {
+   display: inline-block;
    list-style: none;
    display: flex;
    justify-content: center;
@@ -128,14 +129,14 @@ body {
     font-weight: 400;
     font-style: normal;
 	line-height: 1.65;
-    text-align: center;
+    text-align: left;
     max-width: 800px;
     margin: 0 auto;
 }
 
 article {
     border: 5px solid rgb(234,153,153);
-    border-radius: 2px;
+    border-radius: px;
     background-color: rgb(240,227,63);
     text-align: center;
     margin-top: 2px;
