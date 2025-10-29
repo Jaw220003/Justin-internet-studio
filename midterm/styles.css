@@ -41,8 +41,18 @@
   src: url('fonts/kodchasan-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+nav {
+	background-color: #131713;
+	border-bottom: 3px solid #131713;
+	border-radius: 5px;
+	font-family: 'knewaves', sans-serif;
+	color: #ffffff;
+	position: fixed;
+	width: 100%;
+	word-spacing: 20px;
+}
+
 nav ul {
-   display: inline-block;
    list-style: none;
    display: flex;
    justify-content: center;
@@ -59,16 +69,7 @@ nav ul li {
 html {font-size: 16px;}
 
 
-nav {
-	background-color: #131713;
-	border-bottom: 3px solid #131713;
-	border-radius: 5px;
-	font-family: 'knewaves', sans-serif;
-	color: #ffffff;
-	position: fixed;
-	width: 200%;
-	word-spacing: 40px;
-}
+
 
 p {
   font-size: 1.2em;
