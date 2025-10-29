@@ -44,12 +44,12 @@
 nav {
 	background-color: #131713;
 	border-bottom: 3px solid #131713;
-	border-radius: 5px;
+	border-radius: 8px;
 	font-family: 'knewaves', sans-serif;
 	color: #ffffff;
 	position: fixed;
 	width: 100%;
-	word-spacing: 20px;
+	word-spacing: 40px;
 }
 
 nav ul {
@@ -57,7 +57,7 @@ nav ul {
    display: flex;
    justify-content: center;
    flex-direction: row;
-   gap: 20px;
+   gap: 220px;
 }
 
 nav ul li {
@@ -67,8 +67,6 @@ nav ul li {
 }
 
 html {font-size: 16px;}
-
-
 
 
 p {
