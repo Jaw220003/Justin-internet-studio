@@ -59,12 +59,13 @@ html {font-size: 16px;}
 
 
 header {
-	
+	background: #ff932d;
+	border-radius: 5px;
 	border-bottom: 3px solid #131713;
 	font-family: 'knewaves', sans-serif;
 	color: #ffffff;
 	position: fixed;
-	width: 100%;
+	width: 200%;
 	z-index: 10;
 	word-spacing: 40px;
 }
