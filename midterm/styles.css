@@ -197,7 +197,7 @@ footer {
 
 .buttons {
       border: 1px solid white;
-      padding: 40px 0px;
+      padding: 10px 0px;
       position: relative;
       text-align: center;
       width: 100%;
@@ -206,7 +206,7 @@ footer {
 
 .buttons a {
         background: rgb(0, 0, 139);
-        border: 1px solid white;
+        border: 1px solid red;
         border-radius: 3px;
         color: #f0e33f;
         display: inline-block;
