@@ -66,6 +66,10 @@ nav ul li {
    border-radius: 5px;   
 }
 
+#flexstart {
+  justify-content: flex-start;
+}
+
 html {font-size: 16px;}
 
 
