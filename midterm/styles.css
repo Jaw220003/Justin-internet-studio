@@ -207,12 +207,12 @@ footer {
 .buttons a {
         background: rgb(0, 0, 139);
         border: 1px solid red;
-        border-radius: 3px;
+        border-radius: 2px;
         color: #f0e33f;
         margin: 2px;
         padding: 2px;
         text-decoration: none;
-        font-size: 10px;
+        font-size: 15px;
 }
 
 .buttons a:hover {
