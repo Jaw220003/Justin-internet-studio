@@ -205,15 +205,15 @@ footer {
 }
 
 .buttons a {
-        background: #719b6c;
+        background: rgb(0, 0, 139);
         border: 1px solid white;
         border-radius: 3px;
-        color: #131713;
+        color: #f0e33f;
         display: inline-block;
-        margin: 10px;
-        padding: 14px;
+        margin: 5px;
+        padding: 5px;
         text-decoration: none;
-      font-size: 35px;
+        font-size: 10px;
 }
 
 .buttons a:hover {
