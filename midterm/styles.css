@@ -124,11 +124,7 @@ body {
     background: transparent url(images/title-card.jpg);
     background-repeat: repeat;
 	font-family: 'kodchasan', sans-serif;
-    font-weight: 200;
-    font-style: center;
 	line-height: 1.65;
-    text-align: center;
-    max-width: 1000px;
     margin: 0 auto;
 }
 
