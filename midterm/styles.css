@@ -43,8 +43,8 @@
 
 nav {
 	background-color: #131713;
-	border-bottom: 3px solid #131713;
-	border-radius: 3px;
+	border-bottom: 2px #131713;
+	border-radius: 2px;
 	font-family: 'knewaves', sans-serif;
 	color: #ffffff;
 	position: left;
@@ -57,7 +57,7 @@ nav ul {
    display: flex;
    justify-content: center;
    flex-direction: row;
-   gap: 100px;
+   gap: 50px;
 }
 
 nav ul li {
