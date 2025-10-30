@@ -161,11 +161,6 @@ aside {
   border: 2px solid #FF0000;
 }
 
-html {
-  height: 100%
-  background-repeat: no-repeat; 
-}
-
 .main {
   width: 10%;
   height: auto;
