@@ -199,7 +199,8 @@ footer {
       border: 2px solid red;
       padding: 10px 0px;
       position: relative;
-      width: 100%;
+      text-align: center;
+	  width: 100%;
       color: rgb(255,59,59);
 }
 
@@ -208,7 +209,6 @@ footer {
         border: 1px solid red;
         border-radius: 3px;
         color: #f0e33f;
-        align-items: flex-end;
         margin: 2px;
         padding: 2px;
         text-decoration: none;
