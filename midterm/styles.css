@@ -70,6 +70,10 @@ nav ul li {
   justify-content: flex-start;
 }
 
+#center {
+  align-items: center;
+}
+
 html {font-size: 16px;}
 
 
