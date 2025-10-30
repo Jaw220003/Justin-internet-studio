@@ -192,16 +192,16 @@ aside {
 footer {
       align: center;
       font-family: 'knewaves', sans-serif;
-      background-color: rgb(144, 213, 255);
+      background-color: rgb(157,201,251);
 }
 
 .buttons {
-      border: 1px solid white;
+      border: 2px solid red;
       padding: 10px 0px;
       position: relative;
       text-align: center;
       width: 100%;
-      color: #ffffff;
+      color: rgb(255,59,59);
 }
 
 .buttons a {
