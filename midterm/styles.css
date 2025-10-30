@@ -213,14 +213,14 @@ footer {
         margin: 2px;
         padding: 2px;
         text-decoration: none;
-        font-size: 10px;
+        font-size: 5px;
 }
 
 .buttons a:hover {
         background: white;
         border: 1px solid #131713;
         color: #131713;
-      transform: scale(1.5);
+      transform: scale(.5);
 }
 
 nav a {
