@@ -191,7 +191,7 @@ aside {
 
 footer {
       align: center;
-      font-family: 'kodchasan', sans-serif;
+      font-family: 'knewaves', sans-serif;
       background-color: #131713;
 }
 
@@ -210,8 +210,8 @@ footer {
         border-radius: 3px;
         color: #f0e33f;
         display: inline-block;
-        margin: 5px;
-        padding: 5px;
+        margin: 2px;
+        padding: 2px;
         text-decoration: none;
         font-size: 10px;
 }
