@@ -166,6 +166,13 @@ aside {
   border: 2px solid #FF0000;
 }
 
+form {
+  display: flex;
+  align-items: center;
+  max-width: 500px;
+  gap: 0.6rem;
+}
+
 .main {
   width: 10%;
   height: auto;
