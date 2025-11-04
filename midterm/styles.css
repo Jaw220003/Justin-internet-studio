@@ -43,7 +43,7 @@
 
 nav {
 	background-color: rgb(30, 144, 255);
-	border-bottom: 3px rgb(30, 144, 255);
+	border-bottom: 3px;
 	border-radius: 3px;
 	font-family: 'knewaves', sans-serif;
 	color: #ffffff;
