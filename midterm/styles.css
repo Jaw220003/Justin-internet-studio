@@ -86,8 +86,8 @@ nav {
 }
 
 nav {
-	background-color: dodgerblue;
-	border-bottom: 2px dodgerblue;
+	background-color: #1e90ff;
+	border-bottom: 2px #1e90ff;
 	border-radius: 2px;
 	font-family: 'knewaves', sans-serif;
 	color: #ffffff;
@@ -244,7 +244,7 @@ form {
 }
 
 footer {
-      align: center;
+      text-align: center;
       font-family: 'knewaves', sans-serif;
       background-color: rgb(157,201,251);
 }
