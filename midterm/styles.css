@@ -169,8 +169,6 @@ aside {
 form {
   display: flex;
   text-align: center;
-  max-width: 500px;
-  gap: 0.6rem;
 }
 
 .main {
