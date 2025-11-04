@@ -464,7 +464,7 @@ form {
 }
 
 footer {
-      align: center;
+      text-align: center;
       font-family: 'knewaves', sans-serif;
       background-color: rgb(157,201,251);
 }
