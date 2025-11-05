@@ -262,30 +262,6 @@ nav a:hover {
 	animation: logo 3s;
 }
 
-
-	border-bottom: 2px #131713;
-	border-radius: 2px;
-	font-family: 'knewaves', sans-serif;
-	color: #ffffff;
-	position: left;
-	width: 100%;
-	word-spacing: 10px;
-}
-
-nav ul {
-   list-style: none;
-   display: flex;
-   justify-content: center;
-   flex-direction: row;
-   gap: 50px;
-}
-
-nav ul li {
-   background-color: dodgerblue;
-   padding: 5px;
-   border-radius: 3px;   
-}
-
 #flexstart {
   justify-content: flex-start;
 }
