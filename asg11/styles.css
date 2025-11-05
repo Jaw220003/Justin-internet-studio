@@ -90,4 +90,8 @@ small,
 .text-small {
   font-size: 0.64em;
 }
+
+.container {
+      justify-contetn: space-evenly;
+}
               
