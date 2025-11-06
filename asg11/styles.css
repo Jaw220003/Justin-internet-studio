@@ -98,6 +98,6 @@ small,
 }
 
 .container {
-      justify-content: space-evenly;
+  flex-direction: row;
 }
               
