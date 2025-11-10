@@ -72,6 +72,7 @@ h5 {
 
 h1,
 .text-size-h1 {
+  border: #000000;
   color: #A71F36;
   font-family: 'Balsamiq Sans', sans-serif;
   font-weight: 700;
