@@ -103,7 +103,7 @@ small,
 
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   padding: 10px;
   margin: 0 auto;
 }
