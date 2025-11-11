@@ -103,7 +103,7 @@ small,
 
 .container {
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   padding: 10px;
   margin: 0 auto;
 }
