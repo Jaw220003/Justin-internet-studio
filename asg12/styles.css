@@ -23,3 +23,20 @@
        
 
  Insert all your glorious CSS styles below! */
+/* pathway-extreme-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Pathway Extreme';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/pathway-extreme-v7-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* honk-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Honk';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/honk-v6-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
