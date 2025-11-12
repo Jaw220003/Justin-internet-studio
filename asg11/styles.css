@@ -108,3 +108,6 @@ small,
   margin: 0 auto;
 }
 
+.img {
+  max-height: 300px;
+}
