@@ -97,10 +97,10 @@ small,
 
 .grid {
   display: grid;
+  border: 2px blue solid;
   width: 400px;
-  height: 400px;    
-  grid-template-columns: 20px 20% 60%;
-  grid-template-rows: 20px 20% 60%;    
+  height: 500px;
+  grid-template: 1fr 1fr 1fr / 3fr 50% 1fr;
 }
 
 .box {
@@ -110,9 +110,3 @@ small,
   border: 2px dodgerblue solid;
 }
 
-.a {
-  grid-column-start: 1;
-  grid-column-end: span 2;
-  grid-row-start: 1;
-  grid-row-end: 3;
-}
