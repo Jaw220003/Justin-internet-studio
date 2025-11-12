@@ -97,7 +97,8 @@ small,
 
 .grid {
   display: grid;
-  width: 100px;
+  width: 400px;
+  height: 400px;    
   grid-template-columns: 20px 20% 60%;
 }
 
