@@ -46,6 +46,7 @@
 html {font-size: 16px;}
 
 body {
+  background: transparent url(images/Film-bg.jpg);
   font-family: 'Pathway Extreme', sans-serif;
   font-weight: false;
   line-height: 1.65;
