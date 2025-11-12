@@ -97,8 +97,8 @@ small,
 }
 
 
-.container {
-   justify-content: stretch;   
+.item {
+   justify-self: start;   
 }
 
 
