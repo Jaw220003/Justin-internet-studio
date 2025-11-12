@@ -100,6 +100,7 @@ small,
   width: 400px;
   height: 400px;    
   grid-template-columns: 20px 20% 60%;
+  grid-template-rows: 20px 20% 60%;    
 }
 
 .box {
