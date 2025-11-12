@@ -101,9 +101,6 @@ small,
 }
 
 .grid {
-  border: 2px blue solid;
-  height: 500px;
-  width: 500px;
   display: grid;
   grid-template-columns: 25% 25% 2fr 1fr;
   grid-template-rows: 200px 200px;
