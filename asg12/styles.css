@@ -41,11 +41,13 @@
   src: url('fonts/honk-v6-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+body { 
+    background: transparent url(images/Film-bg.jpg);
+}
+
 .container {
    display: flex;
    justify-content: stretch;   
 }
 
-body { 
-    background: transparent url(images/Film-bg.jpg);
-}
+
