@@ -96,7 +96,6 @@ small,
 
 
 .container {
-   display: flex;
    justify-content: stretch;   
 }
 
