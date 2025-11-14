@@ -101,10 +101,9 @@ small,
   font-size: 0.64em;
 }
 
-/* ====== Flex Container (if used) ====== */
 .container {
  display: flex;
- flex-direction: row; /* or row-reverse, column, column-reverse */
+ flex-direction: column; 
  padding: 10px;
  margin: 0 auto;
 }
