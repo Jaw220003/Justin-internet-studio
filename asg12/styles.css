@@ -84,7 +84,8 @@ h1,
 
 h2,
 .text-size-h2 { font-size: 2.44em; }
-
+  font-family: 'Honk', display;
+  text-align: center;
 h3,
 .text-size-h3 { font-size: 1.95em; }
 
