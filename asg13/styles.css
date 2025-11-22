@@ -46,6 +46,7 @@
 html {font-size: 16px;}
 
 body {
+  background: transparent url(images/united-squares-negative.webp);
   font-family: 'Rhodium Libre', sans-serif;
   font-weight: false;
   line-height: 1.65;
