@@ -42,7 +42,7 @@
   src: url('fonts/rhodium-libre-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-
+/*I want have my heading and body standout in giving its clarity*/ 
 html {font-size: 16px;}
 
 body {
@@ -93,3 +93,18 @@ small,
   font-size: 0.64em;
 }
               
+.grid {
+      margin: 0 auto;
+      width: 85%;
+      display: grid;
+      grid-template-columns: 25% 25% 2fr 1fr;
+      grid-template-rows: 650px 650px;
+      gap: 10px 15px;
+}
+
+.box {
+  margin: 0 auto;
+  border-radius: 5px;
+  border: 2px black solid;
+  background-color: #996515;
+}
